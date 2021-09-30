@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082214397838",
+    "project_id": "coinfo-61d52",
+    "storage_bucket": "coinfo-61d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082214397838:android:c048314f257c91fb09d6df",
+        "android_client_info": {
+          "package_name": "com.ab13hay.coinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082214397838-f627vmus9cj879cls73lq912g9bv8kks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnU2lzFTdd6TwzyHmgRAxhTHo5lJM2rsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082214397838-f627vmus9cj879cls73lq912g9bv8kks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
